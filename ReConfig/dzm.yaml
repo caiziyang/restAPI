@@ -1,0 +1,28 @@
+dzm_search_base_data:
+  order: asc
+  limit: 30
+  offset: 0
+  method: query
+  params:
+   pagenumber: 1
+   pagesize: 30
+   variables:
+    sendDone: ""
+    productId: ""
+    productName: ""
+    productId2: ""
+    consumeCode: ""
+    externalCode: ""
+    name: ""
+    phone: ""
+    orderId: ""
+    invalidOrderId: ""
+    state: ""
+    channelId: ""
+    dealId: ""
+    disIdOrAgentId: ""
+    disNameOrAgentName: ""
+    text: ""
+    CC_API_PARAMS: ""
+    bSendTime: "2020-01-01"
+    eSendTime: ""

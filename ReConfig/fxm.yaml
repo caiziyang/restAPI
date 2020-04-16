@@ -1,0 +1,36 @@
+fxm_search_base_data:
+  order: asc
+  limit: 30
+  offset: 0
+  method: query
+  params:
+   pagenumber: 1
+   pagesize: 30
+   variables:
+    brand_id: 1000
+    portal_id: ""
+    totalcount: "-1"
+    BTIME: "2020-01-01 00:00:00"
+    bdate: ""
+    edate: ""
+    id: ""
+    status: ""
+    customer_name: ""
+    customer_id: ""
+    customer_mobile: ""
+    cls_code: "'dzm','dds','scm'"
+    pay_transaction_no: ""
+    coupon_money: ""
+    rebate_status: ""
+    pay_way: ""
+    refund_type: ""
+    third_sys_code: ""
+    company_id: ""
+    pay_target_id: ""
+    referrer: ""
+    introducer: ""
+    showTeam: 0
+    product_id: ""
+    distributor_id: ""
+    rebate_drawback: ""
+   totalcount: "-1"

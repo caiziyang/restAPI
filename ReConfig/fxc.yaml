@@ -1,0 +1,33 @@
+add_order_by_dzm:
+  'variables[domain]': fx3t-ysqg.lhs11.com
+  'variables[productId]': 4978
+  'variables[skuId]': 7754
+  'variables[pay_way]': '3.0'
+  'variables[currentCityId]': 1
+  'variables[customerId]': 20188307
+  'variables[buyinfo]':
+    - name: 订单联系人
+      customizeds:
+        - control: '1'
+          name: 姓名
+          value: 张三的歌
+        - control: '2'
+          name: 手机
+          value: '13012345678'
+        - control: '3'
+          name: 证件
+          value: ''
+          credentialsType: '1'
+    - name: 订单信息
+      customizeds:
+        - control: '3'
+          name: 身份证
+          value: ''
+          credentialsType: '1'
+  'variables[buyCount]': 1
+  'variables[customerNote]': ''
+  'variables[coupon_code]': ''
+  'variables[productCode]': ZHO2WS
+  'variables[is_buy_axt]': 0
+  'variables[platform]': xcx
+  'variables[card]': 123456789
