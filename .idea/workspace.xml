@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a0366f15-0b35-4236-806d-4a7928d1ac66" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReConfig/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/ReConfig/.pytest_cache/v/cache/lastfailed" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReConfig/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/ReConfig/.pytest_cache/v/cache/nodeids" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReConfig/ReConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReConfig/ReConfig.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SysRequest/dzm.py" beforeDir="false" afterPath="$PROJECT_DIR$/SysRequest/dzm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587028099738</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="整理读取文件的方法">
+      <created>1587115775926</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587115775926</updated>
+    </task>
+    <task id="LOCAL-00004" summary="整理读取文件的方法">
+      <created>1587115793108</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587115793108</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,17 +190,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="自动化交接代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="自动化交接代码" />
+    <MESSAGE value="整理读取文件的方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="整理读取文件的方法" />
   </component>
   <component name="WindowStateProjectService">
     <state x="548" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587112289485">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="548" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587112289485" />
-    <state x="732" y="139" key="CommitChangelistDialog2" timestamp="1587115775355">
+    <state x="732" y="139" key="CommitChangelistDialog2" timestamp="1587115792630">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="732" y="139" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587115775355" />
+    <state x="732" y="139" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587115792630" />
     <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1587115715506">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -235,16 +246,5 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="886" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587115782559" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ReConfig/ReConfig.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
