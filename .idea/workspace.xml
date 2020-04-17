@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0366f15-0b35-4236-806d-4a7928d1ac66" name="Default Changelist" comment="" />
+    <list default="true" id="a0366f15-0b35-4236-806d-4a7928d1ac66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587027942920</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="自动化交接代码">
+      <created>1587028099738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587028099738</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,10 +149,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="548" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587026707044" />
-    <state x="732" y="139" key="CommitChangelistDialog2" timestamp="1587027942202">
+    <state x="732" y="139" key="CommitChangelistDialog2" timestamp="1587028099113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="732" y="139" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587027942202" />
+    <state x="732" y="139" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587028099113" />
     <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1587027306855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
