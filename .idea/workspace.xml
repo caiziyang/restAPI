@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a0366f15-0b35-4236-806d-4a7928d1ac66" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReConfig/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/ReConfig/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReConfig/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/ReConfig/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReConfig/ReConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReConfig/ReConfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SysRequest/dzm.py" beforeDir="false" afterPath="$PROJECT_DIR$/SysRequest/dzm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -48,7 +52,7 @@
       <recent name="D:\Fxc\restAPI\ReConfig" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dzm">
+  <component name="RunManager" selected="Python tests.pytest for ReConfig.test_001">
     <configuration name="dzm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="restAPI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,6 +74,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for ReConfig.test_001" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="restAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReConfig" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ReConfig.test_001&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for ReConfig.test_Case" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="restAPI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,14 +104,33 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for ReConfig.test_load_yaml_Config" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="restAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReConfig" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ReConfig.test_load_yaml_Config&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.dzm" />
+      <item itemvalue="Python tests.pytest for ReConfig.test_load_yaml_Config" />
       <item itemvalue="Python tests.pytest for ReConfig.test_Case" />
+      <item itemvalue="Python tests.pytest for ReConfig.test_001" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dzm" />
+        <item itemvalue="Python tests.pytest for ReConfig.test_001" />
+        <item itemvalue="Python tests.pytest for ReConfig.test_load_yaml_Config" />
         <item itemvalue="Python tests.pytest for ReConfig.test_Case" />
+        <item itemvalue="Python.dzm" />
       </list>
     </recent_temporary>
   </component>
@@ -145,53 +183,68 @@
     <option name="LAST_COMMIT_MESSAGE" value="自动化交接代码" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="548" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587026707044">
+    <state x="548" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587112289485">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="548" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587026707044" />
+    <state x="548" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587112289485" />
     <state x="732" y="139" key="CommitChangelistDialog2" timestamp="1587028099113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="732" y="139" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587028099113" />
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1587027306855">
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1587115715506">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587027306855" />
-    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1587027306854">
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587115715506" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1587115715506">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587027306854" />
-    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1587027306854">
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587115715506" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1587115715506">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587027306854" />
-    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1587027306854">
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587115715506" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1587115715506">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587027306854" />
-    <state width="1362" height="209" key="GridCell.Tab.1.bottom" timestamp="1587020816205">
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587115715506" />
+    <state width="1340" height="209" key="GridCell.Tab.1.bottom" timestamp="1587115651782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="209" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587020816205" />
-    <state width="1362" height="209" key="GridCell.Tab.1.center" timestamp="1587020816205">
+    <state width="1340" height="209" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587115651782" />
+    <state width="1340" height="209" key="GridCell.Tab.1.center" timestamp="1587115651782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="209" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587020816205" />
-    <state width="1362" height="209" key="GridCell.Tab.1.left" timestamp="1587020816205">
+    <state width="1340" height="209" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587115651782" />
+    <state width="1340" height="209" key="GridCell.Tab.1.left" timestamp="1587115651782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="209" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587020816205" />
-    <state width="1362" height="209" key="GridCell.Tab.1.right" timestamp="1587020816205">
+    <state width="1340" height="209" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587115651782" />
+    <state width="1340" height="209" key="GridCell.Tab.1.right" timestamp="1587115651782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="209" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587020816205" />
-    <state x="595" y="185" key="SettingsEditor" timestamp="1587027981575">
+    <state width="1340" height="209" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587115651782" />
+    <state x="595" y="185" key="SettingsEditor" timestamp="1587094118499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="595" y="185" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587027981575" />
+    <state x="595" y="185" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587094118499" />
+    <state x="774" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1587094128492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="367" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587094128492" />
     <state x="886" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587028039802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="886" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587028039802" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ReConfig/ReConfig.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

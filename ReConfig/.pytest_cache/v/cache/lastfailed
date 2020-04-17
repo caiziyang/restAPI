@@ -1,3 +1,5 @@
 {
-  "ReConfig.py": true
+  "ReConfig.py": true,
+  "ReConfig.py::test_load_yaml_Config[file0]": true,
+  "ReConfig.py::test_load_yaml_Config[file1]": true
 }

@@ -11,7 +11,7 @@ def cookie():
 #查询DZM订单发货状态
 def get_dzm_order_info(fxOrderId):
     url = 'https://mt.lhs11.com/dzm/services/local/dzm/code/code.japi'
-    r_data =test_Case()['dzm_search_base_data']
+    r_data = test_Case()['dzm_search_base_data']
     r_data['params']['variables']['dealId'] = fxOrderId
     headers = cookie()
     r = requests.post(url=url, headers=headers, json=r_data)

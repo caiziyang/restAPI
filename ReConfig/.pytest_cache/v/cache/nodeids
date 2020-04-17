@@ -2,5 +2,9 @@
   "ReConfig.py::test_Case",
   "ReConfig.py::test_load_yaml_Config[.\\\\dzm.yaml]",
   "ReConfig.py::test_load_yaml_Config[.\\\\fxc.yaml]",
-  "ReConfig.py::test_load_yaml_Config[.\\\\fxm.yaml]"
+  "ReConfig.py::test_load_yaml_Config[.\\\\fxm.yaml]",
+  "ReConfig.py::test_load_yaml_Config[file0]",
+  "ReConfig.py::test_load_yaml_Config[file1]",
+  "ReConfig.py::test_load_yaml_Config[.\\\\cookie.txt]",
+  "ReConfig.py::test_001"
 ]
